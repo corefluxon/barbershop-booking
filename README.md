@@ -110,8 +110,3 @@ docker compose up --build
 See `Makefile` and `docs/` for additional development commands.
 
 ---
-
-## Author
-
-**Mounir Gmamsi**  
-[Portfolio](https://mounir-gmamsi.netlify.app/) · [GitHub](https://github.com/Mr-Gms-33) · [LinkedIn](https://www.linkedin.com/in/mounir-gmamsi-1595951b3)
